@@ -86,10 +86,10 @@ Behavioral data analysis of drug use, personality traits, and socioeconomic stat
 
 **Languages:** Java, TypeScript, Python, SQL  
 **Frontend:** Next.js, React, Tailwind CSS  
-**Backend:** Express, Spring Boot, FastAPI, Flask  
-**Data:** PostgreSQL, MongoDB, DuckDB, Redis  
-**Infra:** AWS, Vercel, Docker, Linux, GitHub Actions
+**Backend:** Next.js API Routes, Express  
+**Data:** PostgreSQL  
+**Infra:** Vercel, Docker, GitHub Actions
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,typescript,python,postgres,mongodb,redis,aws,docker,nextjs,react,tailwind,linux,git&theme=light&perline=13" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=java,typescript,python,postgres,docker,nextjs,react,tailwind,vercel,linux,git&theme=light&perline=11" alt="Tech stack" />
 </p>
