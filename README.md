@@ -1,4 +1,4 @@
-### Ben Montesinos
+### Benjamin Montesinos
 **Math-CS @ UCSD | Full-Stack Development | Data Analysis | Applied ML**
 
 Undergraduate at UC San Diego studying Mathematics-Computer Science. Building production-minded systems in Java/TypeScript/Python. From ecommerce storefronts to data pipelines and analytical tooling.
