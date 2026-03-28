@@ -1,7 +1,7 @@
 ### Ben Montesinos
 **Math-CS @ UCSD | Full-Stack Development | Data Analysis | Applied ML**
 
-Undergraduate at UC San Diego studying Mathematics-Computer Science. Building production-minded systems in Java/TypeScript/Python — from ecommerce storefronts to data pipelines and analytical tooling.
+Undergraduate at UC San Diego studying Mathematics-Computer Science. Building production-minded systems in Java/TypeScript/Python.From ecommerce storefronts to data pipelines and analytical tooling.
 
 <p>
   <a href="mailto:benjimontesinos@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
