@@ -14,7 +14,7 @@ Undergraduate at UC San Diego studying Mathematics-Computer Science. Building pr
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### [SilvrStns](https://github.com/BenMonte/silvrstns)
 Custom ecommerce storefront for a gothic jewelry brand.
@@ -27,7 +27,9 @@ Custom ecommerce storefront for a gothic jewelry brand.
 `TypeScript` `Next.js` `React` `Tailwind CSS` `Stripe` `Vercel`
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="100%" valign="top">
 
 ### [Trade Journal Analyzer](https://github.com/BenMonte/Trade-Journal-Analyzer)
 Java CLI that reads Excel trade journals and computes deterministic performance metrics.
@@ -42,7 +44,7 @@ Java CLI that reads Excel trade journals and computes deterministic performance 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### [Drugs, Traits & Status: A Behavioral Link](https://github.com/BenMonte/Drugs-Traits-and-Status-A-Behavioral-Link)
 Behavioral data analysis of drug use, personality traits, and socioeconomic status.
@@ -54,8 +56,6 @@ Behavioral data analysis of drug use, personality traits, and socioeconomic stat
 
 `Python` `Jupyter` `Java` `Data Analysis` `Statistics`
 
-</td>
-<td width="50%" valign="top">
 </td>
 </tr>
 </table>
