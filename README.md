@@ -17,12 +17,12 @@ Undergraduate at UC San Diego studying Mathematics-Computer Science. Building pr
 <td width="100%" valign="top">
 
 ### [SilvrStns](https://github.com/BenMonte/silvrstns)
-Custom ecommerce storefront for a gothic jewelry brand.
+Custom ecommerce storefront for my jewelry brand
 
 - Next.js 16 App Router with React 19 and Tailwind CSS v4
 - Stripe Checkout with server-side session creation
 - Inventory-aware cart logic and dynamic product pages
-- Integrated Google Analytics 4 and Microsoft Clarity
+- Integrated backend for Google Analytics 4 and Microsoft Clarity 
 
 `TypeScript` `Next.js` `React` `Tailwind CSS` `Stripe` `Vercel`
 
@@ -66,7 +66,7 @@ Behavioral data analysis of drug use, personality traits, and socioeconomic stat
 
 | Decision | Why this choice | Tradeoff |
 |---|---|---|
-| Next.js App Router + Stripe server sessions | Keeps payment logic server-side for security; App Router enables streaming and fine-grained caching | Tighter coupling to Vercel deployment model |
+| Next.js App Router + Stripe server sessions | Keeps payment logic server-side for security; App Router enables streaming and fine-grained caching | Makes more sense when paired with Vercel deployment model |
 | Pure-Java analytics (no Pandas/NumPy) | Deterministic, dependency-light metrics with full test coverage and a single fat JAR artifact | More implementation effort than a Python one-liner, but zero runtime ambiguity |
 | Jupyter → JSON → Java CLI reporting pipeline | Separates exploratory analysis from structured output; Java CLI is portable and dependency-free | Requires a well-defined JSON contract between the Python and Java layers |
 | Tailwind CSS v4 + Turbopack | Fast dev iteration with zero-config utility classes and near-instant HMR | Utility-first CSS can be verbose in markup; Turbopack is still maturing |
@@ -75,20 +75,24 @@ Behavioral data analysis of drug use, personality traits, and socioeconomic stat
 
 ## Engineering Snapshot
 
-- Undergraduate at UC San Diego studying Mathematics-Computer Science.
-- 150+ contributions in the past year across 16 repositories.
-- Building and shipping across full-stack, data analysis, and tooling layers.
-- Comfortable working end-to-end: from frontend storefronts to CLI analytics engines.
+- Undergraduate at UC San Diego studying Mathematics-Computer Science
+- Building and shipping across full-stack, data analysis, and tooling layers
+- Comfortable working end-to-end in software
+- Interested in backend engineering, data-driven systems, and practical AI applications
+- Experienced with APIs, analytics workflows, and production-style project development
+- Enjoy turning ideas into working products with clean, maintainable code
 
 ---
 
 ## Core Stack
 
-**Languages:** Java, TypeScript, Python, SQL  
+**Languages:** Java, TypeScript, Python, SQL, C, C++, Bash/Shell  
 **Frontend:** Next.js, React, Tailwind CSS  
-**Backend:** Next.js API Routes, Express  
-**Data:** PostgreSQL  
-**Infra:** Vercel, Docker, GitHub Actions
+**Backend:** Next.js API Routes, Express, Node.js, REST APIs  
+**Data:** PostgreSQL, Jupyter, Data Analysis, Apache POI  
+**Infra / Dev Tools:** Vercel, Docker, Git, GitHub Actions, Maven, Linux/Unix  
+**Integrations / APIs:** Stripe API, OpenAI API, Shippo API, Google Analytics 4, Microsoft Clarity  
+**Testing / Tooling:** JUnit 5, VS Code, LaTeX
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,typescript,python,postgres,docker,nextjs,react,tailwind,vercel,linux,git&theme=light&perline=11" alt="Tech stack" />
